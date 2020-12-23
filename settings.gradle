@@ -1,3 +1,4 @@
 rootProject.name = 'java8-study'
 include '인터페이스의 변화'
+include '함수형 인터페이스와 람다'
 
